@@ -1,0 +1,54 @@
+.newsLetterSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem;
+}
+
+.containerNews {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.newsLetterTxt {
+  h5 {
+    font-weight: 700;
+  }
+  h1 {
+    color: #ee6b1f;
+    font-weight: 700;
+  }
+}
+
+.fieldContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.assureEmail {
+  margin-top: 2rem;
+}
+
+.newsLetterForm {
+  input {
+    width: 20rem;
+    padding: 0.28rem;
+    border: 1px solid #b7b7b7;
+    border-top-left-radius: 0.4rem;
+    border-bottom-left-radius: 0.4rem;
+    outline: none;
+  }
+  button {
+    width: 6rem;
+    border: none;
+    color: #fff;
+    background-color: #ee6b1f;
+    padding: 0.4rem;
+    border-top-right-radius: 0.4rem;
+    border-bottom-right-radius: 0.4rem;
+  }
+}

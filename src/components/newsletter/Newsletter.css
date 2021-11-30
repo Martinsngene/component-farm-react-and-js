@@ -1,0 +1,76 @@
+.newsLetterSection {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 4rem;
+}
+
+.containerNews {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.newsLetterTxt h5 {
+  font-weight: 700;
+}
+
+.newsLetterTxt h1 {
+  color: #ee6b1f;
+  font-weight: 700;
+}
+
+.fieldContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.assureEmail {
+  margin-top: 2rem;
+}
+
+.newsLetterForm input {
+  width: 20rem;
+  padding: 0.28rem;
+  border: 1px solid #b7b7b7;
+  border-top-left-radius: 0.4rem;
+  border-bottom-left-radius: 0.4rem;
+  outline: none;
+}
+
+.newsLetterForm button {
+  width: 6rem;
+  border: none;
+  color: #fff;
+  background-color: #ee6b1f;
+  padding: 0.4rem;
+  border-top-right-radius: 0.4rem;
+  border-bottom-right-radius: 0.4rem;
+}
+/*# sourceMappingURL=Newsletter.css.map */

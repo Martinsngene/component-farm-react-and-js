@@ -1,0 +1,14 @@
+.heroSection {
+  background-color: #fbfbfb;
+  padding: 4rem;
+}
+
+.heroSection h1 {
+  font-size: 4rem;
+}
+
+.heroSection h2 {
+  font-weight: 400;
+  color: #aaa;
+}
+/*# sourceMappingURL=Hero.css.map */

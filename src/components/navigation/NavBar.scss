@@ -1,0 +1,37 @@
+.navBarContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem;
+}
+
+.searchBar {
+  font-size: 1rem;
+  width: 200px;
+  display: inline;
+  input {
+    border: none;
+    margin-left: 0.5rem;
+    outline: none;
+  }
+}
+
+.search {
+  font-size: 1.5rem;
+}
+
+.itemThree {
+  ul {
+    width: 380px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    a {
+      text-decoration: none;
+      font-size: 1rem;
+      font-weight: 500;
+      color: #000;
+    }
+  }
+}

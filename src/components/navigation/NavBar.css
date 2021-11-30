@@ -1,0 +1,50 @@
+.navBarContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 1.5rem;
+}
+
+.searchBar {
+  font-size: 1rem;
+  width: 200px;
+  display: inline;
+}
+
+.searchBar input {
+  border: none;
+  margin-left: 0.5rem;
+  outline: none;
+}
+
+.search {
+  font-size: 1.5rem;
+}
+
+.itemThree ul {
+  width: 380px;
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.itemThree ul a {
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #000;
+}
+/*# sourceMappingURL=NavBar.css.map */
