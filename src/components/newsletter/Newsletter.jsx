@@ -10,7 +10,7 @@ function Newsletter() {
           <div className="newsLetterImg">
             <img
               className="img-fluid"
-              src="/media/newsletter.png"
+              src="/media/newsletter.gif"
               alt="newsletter_pic"
             />
           </div>

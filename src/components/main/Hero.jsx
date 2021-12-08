@@ -18,7 +18,14 @@ function Hero() {
         </div>
         <div className="col-md-6">
           <div className="heroImg">
-            <img className="img-fluid" src="/media/hero.png" alt="hero_pic" />
+            <img
+              className="img-fluid"
+              src="/media/hero-section.gif"
+              alt="hero_pic"
+            />
+            {/* <a href="https://storyset.com/work">
+              Work illustrations by Storyset
+            </a> */}
           </div>
         </div>
       </div>
