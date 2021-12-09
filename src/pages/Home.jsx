@@ -3,6 +3,7 @@ import Hero from "../components/main/Hero";
 import Latest from "../components/latest/AboutSection";
 import NavBar from "../components/navigation/NavBar";
 import Newsletter from "../components/newsletter/Newsletter";
+import Footer from "../components/footer/Footer";
 
 function Home() {
   return (
@@ -11,6 +12,7 @@ function Home() {
       <Hero />
       <Latest />
       <Newsletter />
+      <Footer />
     </div>
   );
 }

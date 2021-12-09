@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
-import "./index";
+import "./index.css";
 import "bootstrap/dist/css/bootstrap.css";
 import "material-ui";
 import "react-icons";

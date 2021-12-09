@@ -23,16 +23,13 @@ function Newsletter() {
               related right in your mailbox.
               <br /> <strong>Subscribe now!</strong>
             </p>
-          </div>
-        </div>
-
-        <div className="fieldContainer">
-          <div className="newsLetterForm">
-            <input placeholder="Email Address" type="text" />
-            <button>Subscribe</button>
-          </div>
-          <div className="assureEmail">
-            <p>Your email is safe with us, we don't spam</p>
+            <div className="newsLetterForm">
+              <input placeholder="Email Address" type="text" />
+              <button>Subscribe</button>
+            </div>
+            <div className="assureEmail">
+              <p>Your email is safe with us, we don't spam</p>
+            </div>
           </div>
         </div>
       </div>
